@@ -1,7 +1,7 @@
 # Hi, I'm Mohamed Ghanem
 
-* 🚀 Passionate about Software Development, Data Science, and Cybersecurity.
-* 💻 Experienced in building data pipelines, machine learning tools, and web applications using Python and modern tech stacks.
+*  Passionate about Software Development, Data Science, and Cybersecurity.
+*  Experienced in building data pipelines, machine learning tools, and web applications using Python and modern tech stacks.
 
 ### 🛠️ Tech Stack & Tools
 <p>
