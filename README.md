@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Mohamed Ghanem
 
-<!--
-**mooghanem/mooghanem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🚀 Passionate about Software Development, Data Science, and Cybersecurity.
+* 💻 Experienced in building data pipelines, machine learning tools, and web applications using Python and modern tech stacks.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=py,sqlite,git,github,vscode,html,css,js" alt="Tech Stack" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Connect with Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedkhaledfarag@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedkhaledghanem/)
